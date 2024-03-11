@@ -10,7 +10,7 @@
     ],
     "require": {
         "evp/gsms-php-client": "*",
-        "symfony/symfony": "^3.4||^4.4"
+        "symfony/symfony": "^3.4 || ^4.4 || ^5.0"
     },
     "autoload": {
         "psr-0": { "Evp\\Bundle\\GsmsBundle": "" }
